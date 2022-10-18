@@ -1,0 +1,370 @@
+{
+  "Locations": [
+    {
+      "Id": "1",
+      "Lat": 40.82411,
+      "Lng": 29.921727,
+      "Name": "A Kapısı Giriş Kontrol Binası"
+    },
+    {
+      "Id": "2",
+      "Lat": 40.822722,
+      "Lng": 29.922159,
+      "Name": "Rektörlük "
+    },
+    {
+      "Id": "3",
+      "Lat": 40.821776,
+      "Lng": 29.921816,
+      "Name": "Kütüphane "
+    },
+    {
+      "Id": "4",
+      "Lat": 40.822487,
+      "Lng": 29.921363,
+      "Name": "Prof Dr. Baki Komsuoğlu Kültür Ve Kongre Merkezi"
+    },
+    {
+      "Id": "5",
+      "Lat": 40.823485,
+      "Lng": 29.922768,
+      "Name": "Kafeterya - Rast Kafe"
+    },
+    {
+      "Id": "6",
+      "Lat": 40.822925,
+      "Lng": 29.923182,
+      "Name": "İletişim Fakültesi "
+    },
+    {
+      "Id": "7",
+      "Lat": 40.822373,
+      "Lng": 29.923929,
+      "Name": "İktisadi Ve İdari Bilimler Fakültesi"
+    },
+    {
+      "Id": "8",
+      "Lat": 40.822478,
+      "Lng": 29.924904,
+      "Name": "Kafeterya - Umut Kafe"
+    },
+    {
+      "Id": "9",
+      "Lat": 40.821939,
+      "Lng": 29.924422,
+      "Name": "Eğitim Fakültesi"
+    },
+    {
+      "Id": "10",
+      "Lat": 40.82187,
+      "Lng": 29.923585,
+      "Name": "Mühendislik Fakültesi B Kapısı"
+    },
+    {
+      "Id": "11",
+      "Lat": 40.820709,
+      "Lng": 29.922098,
+      "Name": "Mühendislik Fakültesi A Kapısı"
+    },
+    {
+      "Id": "12",
+      "Lat": 40.82096,
+      "Lng": 29.923263,
+      "Name": "Mühendislik Fakültesi Dekanlık "
+    },
+    {
+      "Id": "13",
+      "Lat": 40.821578,
+      "Lng": 29.922378,
+      "Name": "Fen Bilimleri Enstitüsü "
+    },
+    {
+      "Id": "14",
+      "Lat": 40.820516,
+      "Lng": 29.920858,
+      "Name": "Fen Edebiyat Fakültesi Dekanlık "
+    },
+    {
+      "Id": "15",
+      "Lat": 40.820983,
+      "Lng": 29.92025,
+      "Name": "Fen Edebiyat Fakültesi A Blok "
+    },
+    {
+      "Id": "16",
+      "Lat": 40.821612,
+      "Lng": 29.920167,
+      "Name": "Teknoloji Fakültesi"
+    },
+    {
+      "Id": "17",
+      "Lat": 40.821464,
+      "Lng": 29.920728,
+      "Name": "Kafeterya - Mekstar Kafe"
+    },
+    {
+      "Id": "18",
+      "Lat": 40.823303,
+      "Lng": 29.925426,
+      "Name": "B Kapısı Giriş Kontrol Binasi"
+    },
+    {
+      "Id": "19",
+      "Lat": 40.822129,
+      "Lng": 29.926102,
+      "Name": "Fen Edebiyat Fakültesi B Blok "
+    },
+    {
+      "Id": "20",
+      "Lat": 40.821768,
+      "Lng": 29.926135,
+      "Name": "Hukuk Fakültesi"
+    },
+    {
+      "Id": "21",
+      "Lat": 40.822243,
+      "Lng": 29.927792,
+      "Name": "Sağlık Kültür Ve Spor Daire Başkanlığı / Mediko Sosyal"
+    },
+    {
+      "Id": "22",
+      "Lat": 40.821468,
+      "Lng": 29.928602,
+      "Name": "Öğretim Üyesi Yemekhanesi"
+    },
+    {
+      "Id": "23",
+      "Lat": 40.821334,
+      "Lng": 29.927808,
+      "Name": "Öğrenci Yemekhanesi "
+    },
+    {
+      "Id": "24",
+      "Lat": 40.82174,
+      "Lng": 29.930041,
+      "Name": "C Kapısı Giriş Kontrol Binası"
+    },
+    {
+      "Id": "25",
+      "Lat": 40.819783,
+      "Lng": 29.923639,
+      "Name": "Yurtlar Bölgesi"
+    },
+    {
+      "Id": "26",
+      "Lat": 40.818573,
+      "Lng": 29.924818,
+      "Name": "Lojman Bölgesi"
+    },
+    {
+      "Id": "27",
+      "Lat": 40.819905,
+      "Lng": 29.922469,
+      "Name": "Mescit "
+    },
+    {
+      "Id": "28",
+      "Lat": 40.819577,
+      "Lng": 29.922189,
+      "Name": "Atolyeler "
+    },
+    {
+      "Id": "29",
+      "Lat": 40.819099,
+      "Lng": 29.92179,
+      "Name": "Yapı İşleri Ve Teknik Daire Başkanlığı"
+    },
+    {
+      "Id": "30",
+      "Lat": 40.818284,
+      "Lng": 29.922806,
+      "Name": "Arşiv - Ayniyant / Enformatik"
+    },
+    {
+      "Id": "31",
+      "Lat": 40.820477,
+      "Lng": 29.917051,
+      "Name": "Kreş "
+    },
+    {
+      "Id": "32",
+      "Lat": 40.817497,
+      "Lng": 29.921156,
+      "Name": "Gölet"
+    },
+    {
+      "Id": "33",
+      "Lat": 40.816771,
+      "Lng": 29.919251,
+      "Name": "Spor Bilimleri Fakültesi"
+    },
+    {
+      "Id": "34",
+      "Lat": 40.816454,
+      "Lng": 29.919321,
+      "Name": "Gazanfer Bilge Kapalı Spor Salonu "
+    },
+    {
+      "Id": "35",
+      "Lat": 40.814204,
+      "Lng": 29.920896,
+      "Name": "Kapalı Yüzme Havuzu"
+    },
+    {
+      "Id": "36",
+      "Lat": 40.812755,
+      "Lng": 29.920893,
+      "Name": "İlahiyat Fakültesi"
+    },
+    {
+      "Id": "37",
+      "Lat": 40.813243,
+      "Lng": 29.921483,
+      "Name": "Kocaeli Vilayetler Hizmet Birliği Yurt Müdürlüğü"
+    },
+    {
+      "Id": "38",
+      "Lat": 40.814753,
+      "Lng": 29.919573,
+      "Name": "Atletizm Pistli Futbol Sahası"
+    },
+    {
+      "Id": "39",
+      "Lat": 40.814534,
+      "Lng": 29.918805,
+      "Name": "Açık Spor Tesisleri "
+    },
+    {
+      "Id": "40",
+      "Lat": 40.8117,
+      "Lng": 29.911434,
+      "Name": "E Kapısı Giriş Kontrol Binası "
+    },
+    {
+      "Id": "41",
+      "Lat": 40.816807,
+      "Lng": 29.911274,
+      "Name": "Sağlık Bilimleri Fakültesi"
+    },
+    {
+      "Id": "42",
+      "Lat": 40.818049,
+      "Lng": 29.912439,
+      "Name": "Semahat Aracı Onkoloji Ve Palyatif Bakim Merkezi "
+    },
+    {
+      "Id": "43",
+      "Lat": 40.816801,
+      "Lng": 29.912695,
+      "Name": "Tıp Fakültesi Laboratuvar Binası / Sağlık Bilimleri Enstitüsü "
+    },
+    {
+      "Id": "44",
+      "Lat": 40.82502,
+      "Lng": 29.918376,
+      "Name": "Tıp Fakültesi Araştırma Ve Uygulama Hastanesi"
+    },
+    {
+      "Id": "45",
+      "Lat": 40.82502,
+      "Lng": 29.918376,
+      "Name": "Tanı Merkezi"
+    },
+    {
+      "Id": "46",
+      "Lat": 40.82502,
+      "Lng": 29.918376,
+      "Name": "Poliklinik Ek Bina "
+    },
+    {
+      "Id": "47",
+      "Lat": 40.824179,
+      "Lng": 29.918397,
+      "Name": "Tıp Fakültesi Ek Bina"
+    },
+    {
+      "Id": "48",
+      "Lat": 40.82502,
+      "Lng": 29.918376,
+      "Name": "Morfoloji"
+    },
+    {
+      "Id": "49",
+      "Lat": 40.82502,
+      "Lng": 29.918376,
+      "Name": "Sağlık Hizmetleri Meslek Yüksekokulu "
+    },
+    {
+      "Id": "50",
+      "Lat": 40.82502,
+      "Lng": 29.918376,
+      "Name": "Tıp Fakültesi Ek Bina"
+    },
+    {
+      "Id": "51",
+      "Lat": 40.823453,
+      "Lng": 29.916778,
+      "Name": "Kafeterya - Tepe Kafe"
+    },
+    {
+      "Id": "52",
+      "Lat": 40.823822,
+      "Lng": 29.915838,
+      "Name": "Detab Binası"
+    },
+    {
+      "Id": "53",
+      "Lat": 40.824045,
+      "Lng": 29.914732,
+      "Name": "Detab Bölgesi"
+    },
+    {
+      "Id": "54",
+      "Lat": 40.82383,
+      "Lng": 29.920465,
+      "Name": "Öğrenci Pazar Yeri"
+    },
+    {
+      "Id": "55",
+      "Lat": 40.823861,
+      "Lng": 29.921296,
+      "Name": "Bankamatikler "
+    },
+    {
+      "Id": "56",
+      "Lat": 40.821468,
+      "Lng": 29.928602,
+      "Name": "Öğrenci İşleri"
+    },
+    {
+      "Id": "57",
+      "Lat": 40.821334,
+      "Lng": 29.927808,
+      "Name": "Sosyal Bilimler Enstitüsü"
+    },
+    {
+      "Id": "58",
+      "Lat": 40.821421,
+      "Lng": 29.92373,
+      "Name": "Mühendislik Fakültesi C Kapısı"
+    },
+    {
+      "Id": "59",
+      "Lat": 40.82096,
+      "Lng": 29.923263,
+      "Name": "Mühendislik Fakültesi D Kapısı"
+    },
+    {
+      "Id": "60",
+      "Lat": 40.821504,
+      "Lng": 29.922394,
+      "Name": "Mühendislik Fakültesi F Kapısı"
+    },
+    {
+      "Id": "61",
+      "Lat": 40.821609,
+      "Lng": 29.922481,
+      "Name": "Mühendislik Fakültesi G Kapısı"
+    }
+  ]
+}
